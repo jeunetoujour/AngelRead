@@ -1,0 +1,7 @@
+C:\AionSource\AngelRead\AionMemory\bin\x86\Release\AngelRead.dll
+C:\AionSource\AngelRead\AionMemory\bin\x86\Release\AngelRead.pdb
+C:\AionSource\AngelRead\AionMemory\obj\x86\Release\ResolveAssemblyReference.cache
+C:\AionSource\AngelRead\AionMemory\obj\x86\Release\AngelRead.Properties.Resources.resources
+C:\AionSource\AngelRead\AionMemory\obj\x86\Release\AngelRead.csproj.GenerateResource.Cache
+C:\AionSource\AngelRead\AionMemory\obj\x86\Release\AngelRead.dll
+C:\AionSource\AngelRead\AionMemory\obj\x86\Release\AngelRead.pdb
